@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "CHARU-MAAM-SMP.aternos.me",
+    "port": 57151,
     "version": "1.20.1",
     "try-creative": false
   },
